@@ -1,0 +1,19 @@
+{
+  "name": "learn-vue-js-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://minyugyeong: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@github.com/minyugyeong/learn-vue-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minyugyeong/learn-vue-js/issues"
+  },
+  "homepage": "https://github.com/minyugyeong/learn-vue-js#readme"
+}
