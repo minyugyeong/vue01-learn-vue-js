@@ -3,9 +3,9 @@ import App from './App.vue'
 
 Vue.config.productionTip = false
 
-var App = {
-  templage: '<div>app</div>'
-}
+// var App = {
+//   template: '<div>app</div>'
+// }
 
 
 new Vue({
