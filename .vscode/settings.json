@@ -1,4 +1,7 @@
 {
     "editor.fontFamily": "'IBM Plex Mono', 'D2Coding', Consolas, 'Courier New', monospace",
-    "editor.tabSize": 2
+    "editor.tabSize": 2,
+    "eslint.workingDirectories": [
+      {"mode": "auto"}
+    ],
 }
